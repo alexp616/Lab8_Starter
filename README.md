@@ -1,5 +1,7 @@
 # Lab8-Starter
 
+[link to page](https://alexp616.github.io/Lab8_Starter/)
+
 Done solo by Alex Pan
 
 How are graceful degradation and service workers related?
